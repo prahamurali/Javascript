@@ -1,0 +1,62 @@
+body {
+  margin: 15%;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  overflow: auto;
+  text-align: center;
+  padding: 1px;
+}
+
+.toprow {
+  background-color: black;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px;
+}
+
+.my-form {
+  background-color: darkgray;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px;
+}
+
+.my-form input {
+  width: 75%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+}
+
+#btn {
+  width: 25%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+}
+
+#btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+div {
+  padding: 2px;
+}
+
+.items {
+  background-color: #000;
+  color: #fff;
+  width: auto%;
+  text-align: center;
+  list-style: none;
+
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
